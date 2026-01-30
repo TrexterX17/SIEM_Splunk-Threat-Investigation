@@ -355,12 +355,6 @@ widget-co-breach-investigation/
 
 ---
 
-## 📜 License
-
-This project is for educational and portfolio purposes.
-
----
-
 ## 🤝 Contributing
 
 This is a completed academic project. However, feedback and suggestions are welcome! Feel free to open an issue or submit a pull request.
